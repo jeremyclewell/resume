@@ -1,6 +1,7 @@
 var fs = require("fs");
 var md = require("node-markdown").Markdown;
 var pdf = require("node-wkhtml").pdf();
+var jsdom = require("jsdom");
 
 fs.readFile("../resume.md", "utf-8", function(err, data) {
 	if (err) {
@@ -8,6 +9,7 @@ fs.readFile("../resume.md", "utf-8", function(err, data) {
 		process.exit(1);
 	}
 	var html = "<!DOCTYPE html><html><head><meta charset='UTF-8' /><title>Jeremy Austin Clewell</title><link rel='stylesheet' href='css/style.css'></head>" + md(data) + "</html>";
+	
 	fs.writeFile("../resume.html", html, function(err) {
 		if (err) {		
 			console.log("Could not write file %s", err);	
