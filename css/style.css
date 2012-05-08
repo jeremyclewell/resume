@@ -224,11 +224,15 @@ html {
 
 body { 
    margin: 20px;   
-   background-color: #EEE;
-   color: #323232 !important;
+   background-color: #FFF;
+   color: #444 !important;
 }
 
 a {
+   color: #FF4100;
+}
+
+a:visited {
    color: #FF4100;
 }
 
@@ -236,7 +240,17 @@ a:hover {
    color: #FA7B48;
 }
 
+.gc-cs-link {
+   color: #FF4100;
+}
 
+.gc-cs-link:hover {
+   color: #FA7B48;
+}
+
+::selection {
+   background-color: #FF4100;
+}
 
 
 
