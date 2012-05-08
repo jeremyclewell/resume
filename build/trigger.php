@@ -1,0 +1,1 @@
+<?php `node ./build.js`;
