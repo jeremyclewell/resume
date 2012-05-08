@@ -1,5 +1,5 @@
 # Jeremy Austin Clewell
-### Interactive developer
+### Interactive Developer
 
 [Download PDF](resume.pdf)
 
@@ -46,37 +46,36 @@
 
 ### Experience
 
-__Independence Blue Cross__
+__Independence Blue Cross__ – *2006-2012*
 
 *Senior Interactive Developer*  
-__2006-2012__  
 
 Operated as lead developer within the Multimedia/Interactive – Communications division. Responsible for all facets of front-end, kiosk and multimedia development. Provided technical guidance to the marketing and content teams. Lead the department in technological innovation.  
 
-__Independent Contractor__
 
-*Web Designer - Interactive Developer*  
-__2003-2012__  
+__Independent Contractor__ – *2003-2012*
+
+*Web Designer - Interactive Developer*    
 
 Website design/development, multimedia development,  iOS development. 
 
 
-__Mohawk Home Inc.__
+
+__Mohawk Home Inc.__ – *2003-2005*
   
 *Visual/textile Contractual Artist*  
-__2003-2005__  
 
 Design of imported and domestic textiles (various forms and constructions of ornamental pillows, throws and household accessories).
 
-__Berks-Mont Newspaper__
 
-*Freelance Journalist*  
-__2002__  
+__Berks-Mont Newspaper__ – *2002*
+
+*Freelance Journalist*   
 
 Covered local functions and community meetings for the Hamburg Item and Kutztown Patriot newspapers.
 
 ------
 
-Jeremy Austin Clewell -- [jeremy.clewell@gmail.com](jeremy.clewell@gmail.com) -- (484) 942-5859
+Jeremy Austin Clewell – [jeremy.clewell@gmail.com](jeremy.clewell@gmail.com) – (484) 942-5859
 
 ------
