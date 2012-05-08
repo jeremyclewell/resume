@@ -224,8 +224,16 @@ html {
 
 body { 
    margin: 20px;   
-   background-color: #DDD;
-   color: #333;
+   background-color: #EEE;
+   color: #323232 !important;
+}
+
+a {
+   color: #FF4100;
+}
+
+a:hover {
+   color: #FA7B48;
 }
 
 
