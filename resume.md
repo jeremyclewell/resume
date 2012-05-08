@@ -51,23 +51,22 @@ __Independence Blue Cross__ – *2006-2012*
 *Senior Interactive Developer*  
 
 Operated as lead developer within the Multimedia/Interactive – Communications division. Responsible for all facets of front-end, kiosk and multimedia development. Provided technical guidance to the marketing and content teams. Lead the department in technological innovation.  
-
-
+ 
+ 
 __Independent Contractor__ – *2003-2012*
 
 *Web Designer - Interactive Developer*    
 
 Website design/development, multimedia development,  iOS development. 
-
-
-
+ 
+ 
 __Mohawk Home Inc.__ – *2003-2005*
-  
+
 *Visual/textile Contractual Artist*  
 
 Design of imported and domestic textiles (various forms and constructions of ornamental pillows, throws and household accessories).
-
-
+ 
+ 
 __Berks-Mont Newspaper__ – *2002*
 
 *Freelance Journalist*   
