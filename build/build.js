@@ -1,4 +1,3 @@
-var sys = require('sys')
 var exec = require('child_process').exec;
 var fs = require("fs");
 var md = require("node-markdown").Markdown;
@@ -6,7 +5,7 @@ var pdf = require("node-wkhtml").pdf();
 var jsdom = require("jsdom");
 
 function pull(error, stdout, stderr) { 
-	sys.puts(stdout) 
+	console.log(stdout);
 	fs.readFile("../resume.md", "utf-8", function(err, data) {
 		if (err) {
 			console.log("Could not open file: %s", err);
