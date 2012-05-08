@@ -75,6 +75,6 @@ Covered local functions and community meetings for the Hamburg Item and Kutztown
 
 ------
 
-Jeremy Clewell – [jeremy.clewell@gmail.com](jeremy.clewell@gmail.com) – (484) 942-5859
+Jeremy Austin Clewell – [jeremy.clewell@gmail.com](jeremy.clewell@gmail.com) – (484) 942-5859
 
 ------
