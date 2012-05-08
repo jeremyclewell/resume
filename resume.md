@@ -53,28 +53,29 @@
 
 ### Experience
 
-Independence Blue Cross
+_Independence Blue Cross_
 
 *Senior Interactive Developer*  
 __2006-2012__  
 
 Operated as lead developer within the Multimedia/Interactive – Communications division. Responsible for all facets of front-end, kiosk and multimedia development. Provided technical guidance to the marketing and content teams. Lead the department in technological innovation.  
 
-Independent Contractor  
+_Independent Contractor_
 
 *Web Designer - Interactive Developer*  
 __2003-2012__  
 
 Website design/development, multimedia development,  iOS development. 
-  
-Mohawk Home Inc.
+
+
+_Mohawk Home Inc._
   
 *Visual/textile Contractual Artist*  
 __2003-2005__  
 
 Design of imported and domestic textiles (various forms and constructions of ornamental pillows, throws and household accessories).
 
-Berks-Mont Newspaper  
+_Berks-Mont Newspaper_
 
 *Freelance Journalist*  
 __2002__  
@@ -83,6 +84,6 @@ Covered local functions and community meetings for the Hamburg Item and Kutztown
 
 ------
 
-Jeremy Clewell -- [jeremy.clewell@gmail.com](jeremy.clewell@gmail.com) -- (484) 942-5859
+Jeremy Austin Clewell -- [jeremy.clewell@gmail.com](jeremy.clewell@gmail.com) -- (484) 942-5859
 
 ------
