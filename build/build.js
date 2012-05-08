@@ -14,7 +14,7 @@ function pull(error, stdout, stderr) {
 		}
 		jsdom.env("https://raw.github.com/h5bp/html5-boilerplate/master/index.html", ['http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'], function(errors, window) {
 	  		window.$("body").prepend(md(data));
-	  		fs.writeFile("../resume.html", $('<div>').append(window.$("html")).html(), function(err) {
+	  		fs.writeFile("../resume.html", window.$("html").clone().wrap('<div></div>').html(), function(err) {
 				if (err) {		
 					console.log("Could not write file %s", err);	
 				} else {
