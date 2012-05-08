@@ -220,10 +220,14 @@ td { vertical-align: top; }
 
 html {
    border-top: 10px solid #999;
+   width: 70%;
+   text-align: center;
+   margin: 0 auto;
 }
 
 body { 
-   width: 70%;
+   width: 100%;
+   text-align: left;
    background-color: #FFF;
    color: #444 !important;
 }
