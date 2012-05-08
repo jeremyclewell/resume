@@ -223,7 +223,7 @@ html {
 }
 
 body { 
-   margin: 20px;   
+   width: 70%;
    background-color: #FFF;
    color: #444 !important;
 }
@@ -241,7 +241,7 @@ a:hover {
 }
 
 .gc-cs-link {
-   color: #FF4100;
+   color: #FF4100 !important;
 }
 
 .gc-cs-link:hover {
