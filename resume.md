@@ -9,7 +9,7 @@
 
 ### Profile 
 
-  I am an autodidact and a rampant neophile with a classical streak. I grew up watching my father paint in his art studio, and wrote my first application on an Apple IIgs. 
+  I am an autodidact :) and a rampant neophile with a classical streak. I grew up watching my father paint in his art studio, and wrote my first application on an Apple IIgs. 
 
 ------
 
