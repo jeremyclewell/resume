@@ -1,11 +1,11 @@
-# Jeremy Austin Clewell test
+# Jeremy Austin Clewell AAARRRGGGG
 ### Interactive Developer
 
 [Download PDF](resume.pdf)
 
 [jeremy.clewell@gmail.com](jeremy.clewell@gmail.com)  
 
-(484) 942-5859###kdsljfldsk
+(484) 942-5859
 
 ------
 
