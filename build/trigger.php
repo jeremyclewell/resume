@@ -1,1 +1,3 @@
-<?php echo `node ./build.js`;
+<?php 
+	echo `node ./build.js`;
+?>
