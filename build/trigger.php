@@ -1,4 +1,1 @@
-<?php 
-	$output =  `node ./build.js`;
-	echo "<pre>$output</pre>";
-?>
+<?php `node build.js`;

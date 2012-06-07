@@ -1,4 +1,4 @@
-# Jeremy Austin Clewell AAARRRGGGG
+# Jeremy Austin Clewell
 ### Interactive Developer
 
 [Download PDF](resume.pdf)
@@ -11,7 +11,7 @@
 
 ### Profile 
 
-  I am an autodidact and an incessant neophile with a classical streak. I grew up watching my father paint in his art studio, and wrote my first application on an Apple IIgs. 
+  I am an autodidact and a neophile with a classical streak. I grew up watching my father paint in his art studio, and wrote my first small applications in Applesoft Basic on a IIgs. I strive to place myself in an environment that will both humble and inspire me.
 
 ------
 
@@ -19,11 +19,11 @@
 
 * Interface Design – Interactive and web
   
-  Wireframing and comping with the user's best interests in mind. I focus on intuitive interaction with an emphasis on subtlty and usability rather than glitz and novelty. 
+  Wire-framing and comping with the user's best interests in mind. I focus on intuitive interaction with an emphasis on subtlety and usability rather than glitz and novelty. 
 
 * Development – Desktop, web and mobile  
   
-  Device agnosticism is a tenant i strongly champion, not in product, but rather in development. I succumb to no tool worship, my focus and energy is always on the finished product and getting there as cleanly as possible using the tools best suited for the job. 
+  Device agnosticism is a tenant I strongly champion, not in product, but rather in development. My focus is always on the finished product and getting there as cleanly as possible using the tools best suited for the job. 
 
 * Research and Evangelism  
   
@@ -72,6 +72,22 @@ __Berks-Mont Newspaper__ – *2002*
 *Freelance Journalist*   
 
 Covered local functions and community meetings for the Hamburg Item and Kutztown Patriot newspapers.
+
+------
+
+### Education
+
+__Fleisher Art Memorial__ – *2008*
+
+*Varied art courses*   
+
+__Kutztown University__ – *2000-2002*
+
+*Majored in English*   
+
+__Wester Center for Technical Studies__ – *1995-1996*
+
+*Commercial Design program*   
 
 ------
 
