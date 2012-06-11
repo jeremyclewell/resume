@@ -40,6 +40,7 @@
 * Javascript
     - Coffeescript
     - Node.js/Express
+    - Various Libraries (three.js, Backbone.js, Underscore.js, jQuery, etc.)
 * Actionscript 3
     - OOP/MVC
     - Various libraries (Papervision, Box2D, etc.)
