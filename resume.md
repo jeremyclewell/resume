@@ -23,7 +23,7 @@
 
 * Development – Desktop, web and mobile  
   
-  Device agnosticism is a tenant i strongly champion, not in product, but rather in development. I succumb to no tool worship, my focus and energy is always on the finished product and getting there as cleanly as possible using the tools best suited for the job. 
+  Device agnosticism is a tenant I strongly champion, not in product, but rather in development. My focus is always on the finished product and getting there as cleanly as possible using the tools best suited for the job. 
 
 * Research and Evangelism  
   
@@ -34,9 +34,19 @@
 ### Technical 
 
 * HTML5/CSS3
+    - HTML5 Boilerplate
+    - Twitter Bootstrap
+    - Compass/Sass/Less
 * Javascript
+    - Coffeescript
+    - Node.js/Express
 * Actionscript 3
+    - OOP/MVC
+    - Various libraries (Papervision, Box2D, etc.)
 * Python
+    - PyGame
+    - Matplotlib
+    - NLTK
 * Objective-C 2.0
 * Git
 * OS X / FreeBSD
@@ -75,6 +85,8 @@ Covered local functions and community meetings for the Hamburg Item and Kutztown
 
 ------
 
-Jeremy Austin Clewell – [jeremy.clewell@gmail.com](jeremy.clewell@gmail.com) – (484) 942-5859 [Download this as a PDF](resume.pdf)
+Jeremy Austin Clewell – [jeremy.clewell@gmail.com](jeremy.clewell@gmail.com) – (484) 942-5859 
+
+[Download as Markdown](resume.md) | [Download as PDF](resume.pdf)
 
 ------
