@@ -71,12 +71,11 @@ __Monetate__ – *2014-current*
 
 *Software Engineer (product)*  
 
-* Core member of a small dev-team that launched two of Monetate's first model-based, machine-learning, predictive products. (Python, AWS Kinesis, Apache Spark, Django, React)
-  * Optimized A/B/N testing delivered via a non-contextual multi-armed bandit
-  * Individually personalized experiences via a contextual multi-armed bandit
-  * Within a year of launch these two products now make up more than 40% of Monetate's annual sales
-* Developed highly interactive, real-time analytics products for both of Monetate's model-based offerings (DRF, Druid, React)
-* Contributed to solution allowing for first party data to be utilized in Monetate's predictive descisioning processes
+* Core member of a small dev-team that launched two of Monetate's first real-time, model-based, machine-learning, predictive products. Within a year of launch these two products made up more than 40% of Monetate's annual sales (Python, AWS Kinesis, Apache Spark, Django, React)
+  1. Optimized A/B/N testing delivered via a non-contextual multi-armed bandit
+  2. Individually personalized experiences delivered via a contextual multi-armed bandit
+* Developed highly interactive, real-time analytics products for both of Monetate's machine-learning offerings (DRF, Druid, React)
+* Contributed to solution allowing for first party data to be utilized in Monetate's personalization software
 * Part of a small team that developed intelligent, open-time, email recommendations based upon existing client product catalogs
 * Significant contributor to a re-write of the platform's product-catalog ingestion process (Python, Apache Solr)
 * Migrated primary platform database (MySQL) from ISO-8859 to UTF-8 codeset in production with zero down time.
