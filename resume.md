@@ -18,7 +18,7 @@ Innovative full-stack engineer with 12+ years of experience developing for the w
 
   * Experienced with entire software development life-cycle, architecting scalable platforms, database design/optimization and agile methodologies
 
-  * Thrive in a distributed, collaborative development environment using Slack and Zoom for primary communication
+  * Thrive in a distributed, collaborative development environment using Git/Github, Slack and Zoom for primary communication
 
   * Deep understanding of HTTP methods, RESTful architecture, both implementing and consuming custom APIs
 
