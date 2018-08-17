@@ -50,6 +50,7 @@ Innovative full-stack engineer with 12+ years of experience developing for the w
     - React/Flux
     - Webpack/Babel/Gulp/Grunt
     - ESLint/Prettier
+    - Jest/Mocha
     - Experience with various libraries (Angular, Backbone, D3, HighCharts, Moment, LoDash, etc.)
 * SQL
     - MySQL
