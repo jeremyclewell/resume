@@ -26,7 +26,7 @@ Innovative full-stack engineer with 12+ years of experience developing for the w
 
   * Utilized both Object-oriented & Functional programming paradigms 
 
-  * Practiced Test-Driven-Development in both Django and React projects
+  * Practiced Test-Driven-Development in both Django, Flash, Angular and React projects
 
   * Strongly follow PEP-8 and ESLint coding standards 
   
@@ -47,6 +47,7 @@ Innovative full-stack engineer with 12+ years of experience developing for the w
 * Javascript
     - ECMAScript 2016/ECMAScript 2017
     - Node.js
+    - Angular 6+
     - React/Flux
     - Webpack/Babel/Gulp/Grunt
     - ESLint/Prettier
@@ -68,7 +69,13 @@ Innovative full-stack engineer with 12+ years of experience developing for the w
 ### Experience
 
 
-__Monetate__ – *2014-current*
+__Vanguard__ - *2018-current*
+
+*Senior Frontend Engineer*
+
+* Lead frontend engineer on cross-functional team delivering intelligent analytics and data-visualization tools for financial advisors. 
+
+__Monetate__ – *2014-2018*
 
 *Software Engineer (product)*  
 
